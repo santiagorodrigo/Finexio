@@ -1,0 +1,24 @@
+﻿10. In the MVC architecture, should a Controller contain business logic? (5 points)
+    NO. Business login should goes into Model
+
+
+11. In the MVC architecture, should a Controller contain code to load data from the database? (5 points)
+    No. It should comes from Model or data layer
+
+12. In the MVC architecture, should a Model contain business logic? (5 points)
+    Yes.
+
+13. In the MVC architecture, should a Controller be responsible for executing the business logic
+    based on input parameters? (5 points)
+    No. It responsible for call action in the Model using imput parameters, so Model will execute
+    the business logic
+    
+
+14. In the MVC architecture, do Repository classes contain code to load the models from the database? (5 points)
+    Yes. It contains classes in data layer.
+    
+
+15. In the MVC architecture, should Services contain code to generate the output shown to users? (5 points)
+    Services should return properly answer for the request.
+    In the MVC architectire, the view is responsable for this action.
+
