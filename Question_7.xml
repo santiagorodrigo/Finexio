@@ -1,0 +1,15 @@
+﻿<?xml version = "1.0" encoding = "UTF-8"?>
+<Root>
+	<Item>
+		<Name>Smith</Name>
+	</Item>
+	<Item>
+		<Name>Brown</Name>
+	</Item>
+	<Item>
+		<Name>Jones</Name>
+	</Item>
+	<Item>
+		<Name>John</Name>
+	</Item>
+</Root>
