@@ -1,0 +1,5 @@
+/Users/rodrigosantiago/Library/CloudStorage/OneDrive-Personal/Repos/Finexio/obj/Debug/net6.0/Finexio.csproj.AssemblyReference.cache
+/Users/rodrigosantiago/Library/CloudStorage/OneDrive-Personal/Repos/Finexio/obj/Debug/net6.0/Finexio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigosantiago/Library/CloudStorage/OneDrive-Personal/Repos/Finexio/obj/Debug/net6.0/Finexio.AssemblyInfoInputs.cache
+/Users/rodrigosantiago/Library/CloudStorage/OneDrive-Personal/Repos/Finexio/obj/Debug/net6.0/Finexio.AssemblyInfo.cs
+/Users/rodrigosantiago/Library/CloudStorage/OneDrive-Personal/Repos/Finexio/obj/Debug/net6.0/Finexio.csproj.CoreCompileInputs.cache

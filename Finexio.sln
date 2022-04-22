@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finexio", "Finexio.csproj", "{7E9572AB-7B3C-4223-A290-FF75DE4ECF8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finexio_UTests", "Finexio_UTests\Finexio_UTests.csproj", "{F85AA1E9-4D9F-4D0A-9AAF-C67151712CA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E9572AB-7B3C-4223-A290-FF75DE4ECF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9572AB-7B3C-4223-A290-FF75DE4ECF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9572AB-7B3C-4223-A290-FF75DE4ECF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E9572AB-7B3C-4223-A290-FF75DE4ECF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85AA1E9-4D9F-4D0A-9AAF-C67151712CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85AA1E9-4D9F-4D0A-9AAF-C67151712CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85AA1E9-4D9F-4D0A-9AAF-C67151712CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85AA1E9-4D9F-4D0A-9AAF-C67151712CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB1B976A-B422-4A07-A27A-9CE7892086C7}
+	EndGlobalSection
+EndGlobal
